@@ -1,5 +1,5 @@
 Hi, I'm Sathwik 👋 — Java Full-Stack Developer
-*Java Full-Stack Developer* — Java • Spring Boot • React • MySQL • REST APIs • Git • Docker • CI/CD
+**Java Full-Stack Developer** — Java • Spring Boot • React • MySQL • REST APIs • Git • Docker • CI/CD
 
 🔭 Current project: ToDo App (Authentication + Spring Boot + MySQL)
 ✅ I write unit tests using JUnit and Mockito and work with GitHub Actions (CI)

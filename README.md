@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi, I'm Sathwik 👋 — Java Full-Stack Developer
+*Java Full-Stack Developer* — Java • Spring Boot • React • MySQL • REST APIs • Git • Docker • CI/CD
 
-<!--
-**sathwik-mittapelly/sathwik-mittapelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Current project: ToDo App (Authentication + Spring Boot + MySQL)
+✅ I write unit tests using JUnit and Mockito and work with GitHub Actions (CI)
+🌱 Learning: Microservices, Spring Security, caching, and system design basics
+🌐 Portfolio / LinkedIn: Add your portfolio and LinkedIn links here
+📫 Email: Add your email address here
 
-Here are some ideas to get you started:
+🛠️ Tech Stack
+Java, Spring Boot, Spring MVC, Spring Security, Hibernate, JPA, React, JavaScript, HTML, CSS, MySQL, REST APIs, Maven, Git, GitHub, Docker, JUnit, Mockito, GitHub Actions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Projects (Pinned below)**
+
+1. ToDO App – Auth + Spring Boot + MySQL
+2. School App – Spring Boot + MySQL + REST APIs
+3. E-Commerce App – Spring Boot + REST API + React

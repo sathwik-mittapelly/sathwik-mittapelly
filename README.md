@@ -1,4 +1,4 @@
-# Hi, I'm Sathwik 👋 — Java Full-Stack Developer
+# Hi, I'm Sathwik 👋 | Java Full-Stack Developer ☕
 
 **Java Full-Stack Developer** — Java • Spring Boot • React • MySQL • REST APIs • Git • Docker • CI/CD
 

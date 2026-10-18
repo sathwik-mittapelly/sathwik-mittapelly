@@ -3,7 +3,7 @@
 **Java Full-Stack Developer** — Java • Spring Boot • React • MySQL • REST APIs • Git • Docker • CI/CD
 
 - 🔭 Current project: **ToDo App** (Authentication + Spring Boot + MySQL)
-- 🌱 Currently learning: **Java, Spring Boot, MySQL, REST API development, Microservices, and system design basics**
+- 🌱 Currently learning: *Java, Spring Boot, MySQL, REST API development, Microservices, and system design basics*
 - 🛠️ Exploring real-world applications and building practical solutions through technology
 
 ## 📫 Connect With Me

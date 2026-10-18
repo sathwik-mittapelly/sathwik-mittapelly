@@ -14,6 +14,7 @@
   
 
 ### 🛠️ Tech Stack
+--
 
 Java, Spring Boot, Spring MVC, Spring Security, Hibernate, JPA, React, JavaScript, HTML/CSS, MySQL, REST APIs, Maven, Git, GitHub, Docker, JUnit, Mockito, GitHub Actions
 

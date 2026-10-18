@@ -3,8 +3,8 @@
 **Java Full-Stack Developer** — Java • Spring Boot • React • MySQL • REST APIs • Git • Docker • CI/CD
 
 - 🔭 Current project: **ToDo App** (Authentication + Spring Boot + MySQL)
-- ✅ I write unit tests using JUnit and Mockito and work with GitHub Actions (CI)
-- 🌱 Learning: Microservices, Spring Security, caching, and system design basics
+- 🌱 Learning: Java, Spring Boot, MySQL, and REST API development, Microservices, system design basics
+- 🛠️ Exploring real-world applications and building practical solutions through technology
 
 ## 📫 Connect With Me
 

@@ -22,7 +22,6 @@ Java, Spring Boot, Spring MVC, Spring Security, Hibernate, JPA, React, JavaScrip
 2. School App – Spring Boot + MySQL + REST APIs
 3. E-Commerce App – Spring Boot + REST API + React
 
----
 
 
 

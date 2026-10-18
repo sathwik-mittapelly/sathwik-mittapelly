@@ -11,7 +11,8 @@
 - 🌐 **Portfolio:** [View My Portfolio](https://sathwik-mittapelly.github.io/portfolio/)
 - 💼 **LinkedIn:** [Sathwik-Mittapelly](https://www.linkedin.com/in/sathwik-mittapelly/)
 - 💻 **Email:** mittaplellysathwik@gmail.com
----
+
+
 ### 📫 🛠️ Tech Stack
 
 Java, Spring Boot, Spring MVC, Spring Security, Hibernate, JPA, React, JavaScript, HTML/CSS, MySQL, REST APIs, Maven, Git, GitHub, Docker, JUnit, Mockito, GitHub Actions

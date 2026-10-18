@@ -11,8 +11,7 @@
 - 🌐 **Portfolio:** [View My Portfolio](https://sathwik-mittapelly.github.io/portfolio/)
 - 💼 **LinkedIn:** [Sathwik-Mittapelly](https://www.linkedin.com/in/sathwik-mittapelly/)
 - 💻 **Email:** mittaplellysathwik@gmail.com
-
----
+  
 
 ### 🛠️ Tech Stack
 

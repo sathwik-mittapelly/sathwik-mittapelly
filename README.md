@@ -11,9 +11,8 @@
 - 🌐 **Portfolio:** [View My Portfolio](https://sathwik-mittapelly.github.io/portfolio/)
 - 💼 **LinkedIn:** [Sathwik-Mittapelly](https://www.linkedin.com/in/sathwik-mittapelly/)
 - 💻 **Email:** mittaplellysathwik@gmail.com
-  
-
-### 🛠️ Tech Stack
+---
+### 📫 🛠️ Tech Stack
 
 Java, Spring Boot, Spring MVC, Spring Security, Hibernate, JPA, React, JavaScript, HTML/CSS, MySQL, REST APIs, Maven, Git, GitHub, Docker, JUnit, Mockito, GitHub Actions
 
@@ -23,8 +22,6 @@ Java, Spring Boot, Spring MVC, Spring Security, Hibernate, JPA, React, JavaScrip
 2. School App – Spring Boot + MySQL + REST APIs
 3. E-Commerce App – Spring Boot + REST API + React
 
-## 📫 🛠️ Tech Stack
 
-Java, Spring Boot, Spring MVC, Spring Security, Hibernate, JPA, React, JavaScript, HTML/CSS, MySQL, REST APIs, Maven, Git, GitHub, Docker, JUnit, Mockito, GitHub Actions
 
 

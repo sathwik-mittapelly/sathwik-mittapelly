@@ -18,7 +18,7 @@
 
 Java, Spring Boot, Spring MVC, Spring Security, Hibernate, JPA, React, JavaScript, HTML/CSS, MySQL, REST APIs, Maven, Git, GitHub, Docker, JUnit, Mockito, GitHub Actions
 
-### 🚀 Projects (Pinned below)
+### 🚀 Future Projects (Pinned below)
 
 1. ToDO App – Auth + Spring Boot + MySQL
 2. School App – Spring Boot + MySQL + REST APIs

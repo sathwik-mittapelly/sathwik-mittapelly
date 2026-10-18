@@ -5,8 +5,14 @@
 - 🔭 Current project: **ToDo App** (Authentication + Spring Boot + MySQL)
 - ✅ I write unit tests using JUnit and Mockito and work with GitHub Actions (CI)
 - 🌱 Learning: Microservices, Spring Security, caching, and system design basics
-- 🌐 [Portfolio](https://sathwik-mittapelly.github.io/portfolio/) • [LinkedIn](https://www.linkedin.com/in/sathwik-mittapelly/)
-- 📫 Email: mittapellysathwik@gmail.com
+  
+  ## 📫 Connect With Me
+
+- 🌐 **Portfolio:** [View My Portfolio](https://sathwik-mittapelly.github.io/portfolio/)
+- 💼 **LinkedIn:** [Sathwik Mittapelly](https://www.linkedin.com/in/sathwik-mittapelly/)
+- 💻 **Email:** mittaplellysathwik@gmail.com
+
+---
 
 ### 🛠️ Tech Stack
 
